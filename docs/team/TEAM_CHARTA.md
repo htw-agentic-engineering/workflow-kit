@@ -178,7 +178,7 @@ Mit dem Eintrag bestätigt jedes Mitglied, die Charta gelesen zu haben und sich 
 | Tom | | ☐ |
 | Thanh Loan | | ☐ |
 | Paul | | ☐ |
-| Rico | | ☐ |
+| Rico | 20.10.2026 | ☑ |
 
 ## Änderungshistorie
 
