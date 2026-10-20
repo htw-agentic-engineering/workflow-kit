@@ -174,7 +174,7 @@ Mit dem Eintrag bestätigt jedes Mitglied, die Charta gelesen zu haben und sich 
 | Name | Datum | Zugestimmt |
 |------|-------|------------|
 | Etienne | | ☐ |
-| Nataliia | | ☐ |
+| Nataliia |20.10.2026 | ☑  |
 | Tom | | ☐ |
 | Thanh Loan | | ☐ |
 | Paul | | ☐ |
