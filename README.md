@@ -18,7 +18,7 @@ Auf **Use this template** klicken. Das neue Repo ist fertig eingerichtet für di
 | `docs/product/` | Produktüberblick (Vision, Rollen, Personas, Features) und Glossar |
 | `docs/team/TEAM_CHARTA.md` | Teamcharta: Regeln für die Zusammenarbeit |
 | `docs/specs/` | Spezifikation und Plan pro Feature |
-| `docs/adr/` | Architekturentscheidungen |
+| `docs/decisions/` | Architekturentscheidungen |
 | `docs/workflow/` | Leitfäden: welche Stufe wann, gute Anfragen, Ablauf mit Spezifikationen |
 | `templates/` | Vorlagen zum Kopieren: Spezifikation, Plan, ADR, dazu ausgefüllte Beispiele in `templates/examples/` |
 | `src/`, `tests/` | Code in vier Schichten und Tests |
