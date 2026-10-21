@@ -23,10 +23,11 @@ Verwende ausschließlich die Begriffe aus `docs/product/glossary.md` – in Code
 
 ## Arbeitsweise
 - Lies vor einer Umsetzung die zugehörige Spezifikation in `docs/specs/`.
-- Halte dich an die Entscheidungen in `docs/adr/`. Weiche nicht ohne Rückfrage davon ab.
+- Halte dich an die Entscheidungen in `docs/decisions/`. Weiche nicht ohne Rückfrage davon ab.
 - Bei größeren Aufgaben erst einen Plan vorlegen und auf Freigabe warten.
 - Bei Unklarheiten nachfragen, nicht raten.
 - Schreibe Tests für jedes Akzeptanzkriterium.
+- Commit-Nachrichten und Pull-Request-Titel auf Englisch nach Conventional Commits (siehe `docs/team/TEAM_CHARTA.md`).
 
 ## Nie ohne Rückfrage
 - Neue Abhängigkeiten hinzufügen
