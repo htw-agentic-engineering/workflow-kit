@@ -14,4 +14,6 @@ Closes #
 - [ ] Tests laufen lokal grün
 - [ ] Akzeptanzkriterien aus Issue bzw. Spezifikation geprüft
 - [ ] Verhalten geändert? Dann ist die Spezifikation im selben Pull Request aktualisiert (oder nicht zutreffend)
+- [ ] Commits folgen der Konvention aus der Teamcharta
+- [ ] Doku bzw. README aktualisiert (oder nicht nötig)
 - [ ] Ich kann die Änderungen erklären
