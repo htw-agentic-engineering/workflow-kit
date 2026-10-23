@@ -177,7 +177,7 @@ Mit dem Eintrag bestätigt jedes Mitglied, die Charta gelesen zu haben und sich 
 | Nataliia |20.10.2026 | ☑  |
 | Tom | 21.10.2026 | ☑ |
 | Thanh Loan | 21.10.2026 | ☑ |
-| Paul | | ☐ |
+| Paul | 23.10.2026 | ☑ |
 | Rico | 20.10.2026 | ☑ |
 
 ## Änderungshistorie
